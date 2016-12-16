@@ -1,0 +1,2 @@
+# machine-learning-tools
+A set of tools for classification(Naïve Bayes with Gaussian Distribution, K-Nearest Neighbours, Linear and Kernel SVM), regression(Linear Regression, Ridge Regression with Cross-Validation, Feature Selection and Polynomial Expansion), dataset-model-analysis(bias-variance trade-off visualization), clustering (K-means, Kernel K-means and Gaussian Mixture Model using EM algorithm)(Python)
