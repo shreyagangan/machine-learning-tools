@@ -139,12 +139,12 @@ def gmm(data1,w,mean,cov,iters):
 ################################ Q(4).1  ##########################################
 #noofclusters=[3]
 
-file1=open("hw5_blob.csv")
+file1=open("blob.csv")
 df1=pd.read_csv(file1,sep=',',names=["x","y"])
 file1.close()
 data1=df1.as_matrix()
 
-file2=open("hw5_circle.csv")
+file2=open("circle.csv")
 df2=pd.read_csv(file2,sep=',',names=["x","y"])
 file2.close()
 data2=df2.as_matrix()
